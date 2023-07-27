@@ -20,7 +20,7 @@ export default function FormattedDate(props) {
     minutes = `0${minutes}`;
   }
   return (
-    <div>
+    <div className="text-center">
       {day} {hours}:{minutes}
     </div>
   );
