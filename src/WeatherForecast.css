@@ -31,7 +31,4 @@
   .WeatherForecast .row .col-4:nth-child(6) {
     margin-top: 20px;
   }
-  .WeatherForecast .row:nth-child(2) {
-    border-bottom: 1px solid white;
-  }
 }
