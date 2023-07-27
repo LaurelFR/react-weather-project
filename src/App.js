@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Denver" />
         <footer>
-          This project was coded by Laurel Rubel and is{" "}
+          This project was coded by <strong>Laurel Rubel</strong> and is{" "}
           <a
             href="https://github.com/LaurelFR/react-weather-project"
             target="_blank"
